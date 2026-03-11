@@ -6,6 +6,12 @@ The system detects differences in light intensity from multiple directions and a
 
 ---
 
+## Demo Video
+
+Video Link: https://youtube.com/shorts/ap8c8DNn0oo?feature=share
+
+---
+
 ## Overview
 
 Solar panels generate maximum power when sunlight strikes them **perpendicularly**. In fixed installations, the panel remains at a constant angle, which reduces efficiency as the sun moves across the sky.
